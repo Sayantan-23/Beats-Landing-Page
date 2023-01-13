@@ -5,7 +5,11 @@
   }
 
   .specs-img-container {
-    display: flex;
+    order: 2;
+  }
+
+  .specs-details {
+    order: 1;
   }
 
   .spec-features {
