@@ -206,7 +206,7 @@ li a {
 }
 
 .hero-btn::after {
-  width: 250px;
+  width: 280px;
   transform: translate(40px, -70px) scale(0.1);
 }
 
